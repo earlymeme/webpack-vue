@@ -49,6 +49,6 @@
     "webpack": "*",
     "webpack-dev-server": "*"
   },
-  "author": "Evan You",
+  "author": "",
   "license": "MIT"
 }
