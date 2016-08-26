@@ -1,5 +1,5 @@
 {
-  "name": "webpack + vue demo",
+  "name": "demo",
   "version": "1.0.0",
   "description": "Example using Webpack with vue-loader",
   "main": "index.js",
